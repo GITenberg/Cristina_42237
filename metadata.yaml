@@ -1,0 +1,33 @@
+_repo: Cristina_42237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42237-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Serao-Scarfoglia, Matilde
+    - Scarfoglia, Matilde Serao
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2013-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42237'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+tableOfContents: Cristina -- Sacrilegio.
+title: Cristina
+url: http://www.gutenberg.org/ebooks/42237
